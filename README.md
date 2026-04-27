@@ -1,0 +1,1 @@
+Testování REST API pro správu studentů (GET, POST, DELETE) na https://test-app.engeto.cz/students. Autentizace přes Bearer token. Ověření konzistence dat v PostgreSQL databázi přes DBeaver. Nalezeny 3 bugy, z toho 1 kritický. Nástroje: Postman, DBeaver, SQL.
